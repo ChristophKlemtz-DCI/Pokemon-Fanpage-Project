@@ -101,14 +101,6 @@ npm run dev
 - **Galerie**: Anzeige und Upload von Fan-Art.
 - **Neuigkeiten**: Aktuelle Informationen und Updates über Pokémon.
 
-## Beispiele
-
-![Screenshot 1](./screenshots/screenshot1.png)
-![Screenshot 2](./screenshots/screenshot2.png)
-![Screenshot 3](./screenshots/screenshot-form1.png)
-![Screenshot 4](./screenshots/screenshot-form2.png)
-
-
 ## Mitwirken
 
 Beiträge sind herzlich willkommen! Bitte folge diesen Schritten, um mitzuwirken:
