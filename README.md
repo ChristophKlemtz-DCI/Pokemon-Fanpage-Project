@@ -8,8 +8,8 @@
 
 <img src="./screenshots/screenshot1.png" alt="Bildbeschreibung" style="width: 50%;"/>
 <img src="./screenshots/screenshot2.png" alt="Bildbeschreibung" style="width: 50%;"/>
-<img src="./screenshots/screenshot1.png" alt="Bildbeschreibung" style="width: 50%;"/>
-<img src="./screenshots/screenshot1.png" alt="Bildbeschreibung" style="width: 50%;"/>
+<img src="./screenshots/screenshot-form1.png" alt="Bildbeschreibung" style="width: 50%;"/>
+<img src="./screenshots/screenshot-form2.png" alt="Bildbeschreibung" style="width: 50%;"/>
 
 --------------------------------------------------------------------------------
 
