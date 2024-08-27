@@ -6,8 +6,13 @@
 
 ## Beispiele
 
-![Screenshot 1](./screenshots/screenshot1.png)
-![Screenshot 2](./screenshots/screenshot2.png)
+<img src="./screenshots/screenshot1.png" alt="Bildbeschreibung" style="width: 50%;"/>
+<img src="./screenshots/screenshot2.png" alt="Bildbeschreibung" style="width: 50%;"/>
+<img src="./screenshots/screenshot1.png" alt="Bildbeschreibung" style="width: 50%;"/>
+<img src="./screenshots/screenshot1.png" alt="Bildbeschreibung" style="width: 50%;"/>
+
+
+
 ![Screenshot 3](./screenshots/screenshot-form1.png)
 ![Screenshot 4](./screenshots/screenshot-form2.png)
 
