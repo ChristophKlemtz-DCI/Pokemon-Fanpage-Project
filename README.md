@@ -6,7 +6,7 @@
 
 ## Beispiele
 
-<img src="![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)" alt="Bildbeschreibung" style="width: 50%;"/>
+<img src="./screenshots/screenshot1.png" alt="Bildbeschreibung" style="width: 50%;"/>
 <img src="./screenshots/screenshot2.png" alt="Bildbeschreibung" style="width: 50%;"/>
 <img src="./screenshots/screenshot-form1.png" alt="Bildbeschreibung" style="width: 50%;"/>
 <img src="./screenshots/screenshot-form2.png" alt="Bildbeschreibung" style="width: 50%;"/>
